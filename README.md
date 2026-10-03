@@ -46,8 +46,3 @@ I build full-stack applications, AI systems, and automation tools—connecting u
 - **[AURA](https://github.com/zshah101/urban-ai-agent)** — Answers questions about urban data with validated queries, maps, and explanations. [Live ↗](https://urban-ai-agent.vercel.app/)
 - **[Granola Sales Coach](https://github.com/zshah101/granola-sales-coach)** — Turns meeting transcripts into sales feedback and a draft follow-up email. [Live ↗](https://granola-sales-coach.vercel.app/)
 
-### A little more
-
-Internship Engine started with me getting tired of refreshing career pages for my own search. So I automated it.
-
-> "What I cannot create, I do not understand." — Richard Feynman
