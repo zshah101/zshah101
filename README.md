@@ -1,4 +1,4 @@
-## Hi, I'm Zain 👋
+## Hi, I'm shahz 👋
 
 I build full-stack applications, AI systems, and automation tools—connecting user interfaces with APIs, data pipelines, and cloud services.
 
